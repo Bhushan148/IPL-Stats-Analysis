@@ -66,13 +66,20 @@ This project provides a deep dive into **Indian Premier League (IPL)** cricket d
 ## 📈 **Exploratory Data Analysis (EDA)**
 
 ### 1. **Distribution of Match Results**
-- Analyzed match outcomes across different seasons to identify trends.
+Analyzed match outcomes across different seasons to identify trends.
+
+<img src="https://github.com/Bhushan148/IPL-Stats-Analysis/blob/main/About%20Project%20Material/Distribution%20of%20Match%20Results.png" alt="Distribution of Match Results" width="60%">
 
 ### 2. **Year-wise Runs Scored**
-- Examined annual runs scored to reveal performance trends over time.
+Examined annual runs scored to reveal performance trends over time.
+
+<img src="https://github.com/Bhushan148/IPL-Stats-Analysis/blob/main/About%20Project%20Material/Year-wise%20Runs%20Scored.png" alt="Year-wise Runs Scored" width="60%">
 
 ### 3. **Year-wise Wickets Taken**
-- Reviewed yearly wicket statistics to highlight key bowling performances.
+Reviewed yearly wicket statistics to highlight key bowling performances.
+
+<img src="https://github.com/Bhushan148/IPL-Stats-Analysis/blob/main/About%20Project%20Material/Year-wise%20Wickets%20Taken.png" alt="Year-wise Wickets Taken" width="60%">
+
 
 ---
 
